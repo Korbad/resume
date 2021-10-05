@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Joshua Perry",
+    "label": "Physicist, Software Developer",
+    "image": "https://github.com/korbad.png?size=200",
+    "email": "joshpperry@gmail.com",
+    "phone": "5072727615",
+    "summary": "I am primarily a Nuclear Physicist and Software Developer. I am particularly fond of continuously learning, automating inefficiencies, and quantum-chromodynamics. I thrive in a self-motivated and self-directed environment as well as in an environment of open knowledge-share and collaboration.",
+    "location": {
+      "city": "Pine Island",
+      "countryCode": "US",
+      "region": "Minnesota"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Korbad",
+        "url": "https://github.com/korbad"
+      },
+      {
+        "network": "iNSPIRE",
+        "username": "J.Perry.1",
+        "url": "https://inspirehep.net/authors/1294717"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "area": "Nuclear Physics",
+      "studyType": "Doctorate (PhD)",
+      "startDate": "2008-05-01",
+      "endDate": "2014-12-01"
+    },
+    {
+      "institution": "Winona State University",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2008-05-01",
+      "endDate": "2005-08-01"
+    },
+    {
+      "institution": "Winona State University",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2008-05-01",
+      "endDate": "2005-08-01"
+    }
+  ],
+  "work": [
+    {
+      "name": "IBM",
+      "position": "Automation Engineer",
+      "startDate": "2016-01-01",
+      "summary": "Work with stakeholders to find and automate inefficient processes",
+      "highlights": [
+        "Continuous learning and improvement to keep up with latest automation technologies and development techniques",
+        "Python development for Ansible collections using Test Driven Development on an Agile team",
+        "Helping to maintain a healthy backlog of Stories through backlog-grooming (as a participant and a story writer)",
+        "Continuously sharing gained knowledge with my team and broader audience",
+        "Meeting with engineers and managers (stakeholders) to determine their needs (defining minimally-viable-product, acceptance criteria, future iterations, etc)",
+        "Creation of Docker containers to standardize development environments",
+        "Working in an iterative fashion using modern collaboration tools (e.g. github)",
+        "Statistical analysis of datasets (log file, databases), specifically for determining automation efficiency and savings",
+        "PHP development for internal webpages / tools",
+        "Adherence to modern data-privacy laws (HIPAA, GDPR)",
+        "Self-motivation and self-improvement was a continuous responsibility in this position",
+        "This position was work-from-home in its entirety"
+      ]
+    },
+    {
+      "name": "IBM",
+      "position": "Infrastructure and Endpoint Security Specialist",
+      "startDate": "2015-05-01",
+      "endDate": "2016-01-01",
+      "summary": "Create novel solutions to automate manual processes.",
+      "highlights": [
+        "Work with engineers and management to understand existing manual processes and pain-points. Create novel solutions to automate manual processes.",
+        "Responsible for discovering opportunities for security tasks and day-to-day tasks to be improved through automation.",
+        "Primarily completed using Selenium and Python for interacting with web-interfaces without a friendly API.",
+        "PyExpect was used for small read-only operations (Nagios-like health checks)",
+        "Continuous learning to stay up-to-date on IT security vulnerabilities and IT security software"
+      ]
+    },
+    {
+      "name": "Iowa State University",
+      "position": "Post-Doctoral Researcher",
+      "startDate": "2015-01-01",
+      "endDate": "2015-05-01",
+      "summary": "Continuation of PhD research as well as preparation of research data for next researchers.",
+      "highlights": [
+        "Calibration of electromagnetic scintillation calorimeter detectors using Monte Carlo simulation and data-driven approaches (calibration relative to data taken using known radiation sources)",
+        "This work was done at Brookhaven National Laboratory in support of the PHENIX Experiment."
+      ]
+    },
+    {
+      "name": "Iowa State University",
+      "position": "Research Assistant",
+      "startDate": "2008-08-01",
+      "endDate": "2015-01-01",
+      "summary": "Data analysis, particle detector calibration, dissertation and paper writing.",
+      "highlights": [
+        "Primary responsibility was to my research effort and dissertation, including determining viability of efforts and impact of potential results.",
+        "On-site hardware troubleshooting for critical networking infrastructure and data collection systems (e.g. particle detection systems using Xilinx FPGAs, analog-to-digital converters, scintillators, electron-cascade detectors)",
+        "Hardware health-monitoring and continuous calibration systems (including GUI output for continuous monitoring)",
+        "Data analysis using statistical methods to determine data quality as a function of time and/or event",
+        "Ballistic tracking of atomic and sub-atomic particles within magnetic and electric fields using fully qualified statistical and systemic errors [no modern data-science tools were used, this was Python and C++ code using Markov Chain - Kalman Filter statistics]",
+        "Writing and using Markov Chain - Monte Carlo simulation techniques to fine-tune particle detector calibration and allow for absolute measures of physical quantities (i.e. determine the identity and kinetic energy of a probably detected subatomic particle)",
+        "Creating, indexing, and using SQL / pSQL databases for data analysis",
+        "Working self-directed in a large and global collaboration (300+ individual contributors spread across the globe)",
+        "Writing and defending dissertation 'A Novel Approach to Central-Jet Forward-Hadron Correlations in Proton-Proton Collisions at 200 GeV at the PHENIX Experiment'",
+        "The last three years of PhD work was completed at Brookhaven National Laboratory in support of the PHENIX Experiment."
+      ]
+    },{
+     "name": "Iowa State University",
+      "position": "Recitation and Lab Instructor",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Novel Approach to Central-Jet Forward-Hadron Correlations in Proton-Proton Collisions at 200 GeV at the PHENIX Experiment",
+      "publisher": "Iowa State University",
+      "releaseDate": "2015-01-01",
+      "summary": "The results of Semi-Inclusive Deep Inelastic Scattering and Deep Inelastic Scattering experiments combined in a global analysis have shown us that a transversely polarized quark undergoes an azimuthal spatially-biased neutral pion fragmentation. One goal of the PHENIX Experiment at RHIC is to study similar properties in a hadron-hadron collision environment in an attempt to show the degree to which universality is broken between these differing systems as well as the relative contribution of competing processes to the observed single spin asymmetries. A novel measurement method was formulated specifically for the PHENIX experiment's detector configuration. The method and results are presented here."
+    },
+    {
+      "name": "Approximation of Jet Axis in Rapidity Separated Dihadron Correlations",
+      "summary": "The PHENIX experiment has observed particle production asymmetries in transversely polarized proton collisons. This talk presents a novel approach for separating the finalstate and initialstate components of the observed asymmetries using the existing PHENIX detector.",
+      "publisher": "Physics of Particles and Nuclei",
+      "releaseDate": "2014-10-01",
+      "url": "https://inspirehep.net/literature/1288562",
+      "highlights": [
+        "Talk at the International Spin Physics Symposium, JINR, Dubna, September 17–22, 2012."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fine Woodworking",
+      "level": "Intermediate",
+      "keywords": [
+        "Mortise-and-Tenon joinery",
+        "Sanding and finishing techniques",
+        "Fixing mistakes with epoxy"
+      ]
+    }
+  ],
+  "projects": [{
+    "name": "Contributed Poster Presentation at APPC12 in Chiba, Japan",
+    "description": "MPC-EX Upgrade at PHENIX",
+    "highlights": [
+      "The proposed MPC-EX detector is a Si-W preshower extention to PHENIX's existing Muon Piston Calorimeter (MPC). The MPC-EX consists of eight layers of alternating W absorber and Si mini-pad sensors.  Located at large rapidities ($3.1 < |eta| < 3.8$), the MPC-EX and MPC access low-x partons in the heavy nucleus in p+A collisions which makes possible a study of gluon distributions in cold nuclear matter via direct photon and neutral pion measurements. With the addition of the MPC-EX, the neutral pion reconstruction energy range extends to energies >80 GeV, a factor of four improvement over current capabilities. Not only will the MPC-EX strengthen PHENIX's existing forward $pi^0$ measurements, but it will also allow for direct measurements of spin-dependent fragmentation in transversely polarized proton-proton collisions. In this presentation I will discuss the design of the MPC-EX detector and the potential impact on current and future measurements made at PHENIX."
+    ],
+    "startDate": "2013-07-01",
+    "endDate": "2013-07-01",
+    "type": "application"
+  },
+  {
+    "name": "Contributed Talk at SPIN2012 in Dubna, Russia'",
+    "description": "Approximation of Jet Axis in Rapidity Separated Di-hadron Correlations",
+    "highlights": [
+      ""
+    ],
+    "startDate": "2012-09-01",
+    "endDate": "2012-09-01",
+    "type": "application"
+  },
+  {
+    "name": "Contributed talk to the ECT* Doctoral Training Programme in Trento, Italy",
+    "description": "Measuring the Collins Effect in proton-proton collisions at PHENIX",
+    "highlights": [
+      ""
+    ],
+    "startDate": "2012-05-01",
+    "endDate": "2012-05-01",
+    "type": "application"
+  },
+  {
+    "name": "Contributed talk to the April Meeting of the American Physical Society in Atlanta, Georgia",
+    "description": "The PHENIX MuTrig Local Level One Trigger Upgrade at PHENIX",
+    "highlights": [
+      ""
+    ],
+    "startDate": "2012-04-01",
+    "endDate": "2012-04-01",
+    "type": "application"
+  },
+  {
+    "name": "Contributed talk at the Fall Meeting of the APS Division of Nuclear Physics in East Lansing, MI",
+    "description": "The PHENIX MuTrig Local Level One Trigger Upgrade at PHENIX",
+    "highlights": [
+      ""
+    ],
+    "startDate": "2011-10-01",
+    "endDate": "2011-10-01",
+    "type": "application"
+  },
+  {
+    "name": "Contributed talk at the Iowa Academy of Science in Waverly, IA",
+    "description": "Approximation of Jet Axis in Rapidity Separated Di-hadron Correlations",
+    "highlights": [
+      ""
+    ],
+    "startDate": "2011-03-01",
+    "endDate": "2011-03-01",
+    "type": "application"
+  },
+  {
+    "name": "Invited presentation at the PHENIX Collaboration Meeting in Tallahassee, Florida",
+    "description": "MuTrig Local Level One Trigger Upgrade During Run-11 and Run-12",
+    "highlights": [
+      ""
+    ],
+    "startDate": "2012-03-01",
+    "endDate": "2012-03-01",
+    "type": "application"
+  }],
+  "awards": [
+    {
+      "title": "RIKEN Institute Internship for PHENIX Spinfest 2011.",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "title":  "APS DNP Travel and Registration Grant for the 2012 APS April Meeting.",
+      "date": ""
+    },
+    {
+      "title": "Eileen Fahey Memorial Scholarship; Winona State University Physics Department. (2008)"
+    }
+  ]
+}
