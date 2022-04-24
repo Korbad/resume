@@ -33,7 +33,7 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          name: Resume compiled on ${{ steps.time.outputs.time }}
+          name: Resume compilation
           tag_name: ${{ steps.time.outputs.time }}
 
       - name: Upload Release Asset
@@ -44,5 +44,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./main.pdf
-          asset_name: resume-${{ steps.time.outputs.time }}.pdf
+          asset_name: josh_perry_resume.pdf
           asset_content_type: application/pdf
