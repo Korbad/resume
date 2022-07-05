@@ -101,23 +101,21 @@
       "position": "Research Assistant",
       "startDate": "2008-08-01",
       "endDate": "2015-01-01",
-      "summary": "Data analysis, particle detector calibration, dissertation and paper writing.",
+      "summary": "Data analysis, particle detector calibration, hardware troubleshooting and monitoring",
       "highlights": [
-        "Primary responsibility was to my research effort and dissertation, including determining viability of efforts and impact of potential results.",
-        "On-site hardware troubleshooting for critical networking infrastructure and data collection systems (e.g. particle detection systems using Xilinx FPGAs, analog-to-digital converters, scintillators, electron-cascade detectors)",
-        "Hardware health-monitoring and continuous calibration systems (including GUI output for continuous monitoring)",
-        "Data analysis using statistical methods to determine data quality as a function of time and/or event",
-        "Ballistic tracking of atomic and sub-atomic particles within magnetic and electric fields using fully qualified statistical and systemic errors [no modern data-science tools were used, this was Python and C++ code using Markov Chain - Kalman Filter statistics]",
-        "Writing and using Markov Chain - Monte Carlo simulation techniques to fine-tune particle detector calibration and allow for absolute measures of physical quantities (i.e. determine the identity and kinetic energy of a probably detected subatomic particle)",
-        "Creating, indexing, and using SQL / pSQL databases for data analysis",
+        "On-site hardware troubleshooting and health monitoring for critical networking infrastructure and data collection systems (e.g. particle detection systems using Xilinx FPGAs, analog-to-digital converters, scintillators, electron-cascade detectors)",
+        "Data analysis of ballistic tracking data of atomic and sub-atomic particles within magnetic and electric fields using Markov Chain - Kalman Filter statistics",
+        "Creating and utilizing Markov Chain - Monte Carlo simulation techniques to fine-tune particle detector calibration and allow for absolute measures of physical quantities (i.e. determine the identity and kinetic energy of a probably detected subatomic particle)",
+        "Creating efficient SQL / pSQL queries and tables for time-series data analysis",
         "Working self-directed in a large and global collaboration (300+ individual contributors spread across the globe)",
-        "Writing and defending dissertation 'A Novel Approach to Central-Jet Forward-Hadron Correlations in Proton-Proton Collisions at 200 GeV at the PHENIX Experiment'",
         "The last three years of PhD work was completed at Brookhaven National Laboratory in support of the PHENIX Experiment."
       ]
     },{
      "name": "Iowa State University",
       "position": "Recitation and Lab Instructor",
-      "summary": ""
+      "summary": "",
+      "startDate": "",
+      "endDate": ""
     }
   ],
   "publications": [
